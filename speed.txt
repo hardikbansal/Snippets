@@ -1,0 +1,7 @@
+Standard Template Library:
+1.) CERTAIN STRUCTURE OF IMPORTANCE:
+	1.) Vector-			#include<vector> 	vector<type> var_name		var_name.push_back(type_val)
+	2.) Map(Hashing)-	#include<map>		map<type1,type2> var_name	var_name[type1_val]=type2_val
+	3.) Set(unique)-	#include<set>		set<type> var_name			var_name.insert(value)
+CERTAIN TRICKS:
+1.) Swap of pointers of different structure types: a.) Equate pointer of one to another and empty the another pointer.
